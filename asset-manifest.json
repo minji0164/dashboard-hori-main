@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dashboard-hori-main/static/css/main.e5eb6f29.css",
-    "main.js": "/dashboard-hori-main/static/js/main.e76e61dc.js",
+    "main.js": "/dashboard-hori-main/static/js/main.46d5050e.js",
     "index.html": "/dashboard-hori-main/index.html",
     "main.e5eb6f29.css.map": "/dashboard-hori-main/static/css/main.e5eb6f29.css.map",
-    "main.e76e61dc.js.map": "/dashboard-hori-main/static/js/main.e76e61dc.js.map"
+    "main.46d5050e.js.map": "/dashboard-hori-main/static/js/main.46d5050e.js.map"
   },
   "entrypoints": [
     "static/css/main.e5eb6f29.css",
-    "static/js/main.e76e61dc.js"
+    "static/js/main.46d5050e.js"
   ]
 }
